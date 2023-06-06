@@ -5,9 +5,9 @@ const items = [
   ]
 
 const navItems = [
-    { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
+    { icon: 'fal fa-home', active: 'fa fa-home', label: 'Ana Sayfa', href: '/' },
     { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Bilgilerim', href: '/projects' },
-    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
+    { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'İletişim', href: '/contact' },
 ]
 
 import Link from 'next/link';
